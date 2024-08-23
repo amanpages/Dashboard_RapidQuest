@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 // Define the base URL for the API
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://dashboard-rapidquest.onrender.com';
 
 // Create an Axios instance with the base URL
 const apiClient = axios.create({
